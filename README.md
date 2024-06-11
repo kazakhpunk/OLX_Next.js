@@ -33,15 +33,15 @@ To get started with this project, follow these steps:
 In the Basic level, you will implement the core interface of application.
 
 ### Tasks
-- [ ] Fetch all products using React Query
-- [ ] Create axios instance and service for handling requests related to '/products' (productsService.ts).
-- [ ] Implement product creation page.
+- [x] Fetch all products using React Query
+- [x] Create axios instance and service for handling requests related to '/products' (productsService.ts).
+- [x] Implement product creation page.
 
 ## 🥈 Medium Level  
 
 ### Tasks
-- [ ] Add file uploading to product creationg page (get url of image from response and add to new product data).
-- [ ] Add invlidateQuery on product creation.
+- [x] Add file uploading to product creationg page (get url of image from response and add to new product data).
+- [x] Add invlidateQuery on product creation.
 
 
 ## 🥇 Hard Level
